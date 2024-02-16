@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name: MetaMosaicBlueprint
- * Description: MetaMosaicBlueprint is an advanced WordPress plugin designed to easily create image schema sitemaps for your website. It follows the latest standards set by Google's schema for image sitemaps, which can be found at https://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd.
+ * Plugin Name: Meta Mosaic Blueprint
+ * Description: Meta Mosaic Blueprint is an advanced WordPress plugin designed to easily create image schema sitemaps for your website. It follows the latest standards set by Google's schema for image sitemaps, which can be found at https://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd.
  * Version: 1.0
  * Author: Mayur Bhatt
  */
